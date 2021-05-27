@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\SnakeFinished\bin\Debug\netcoreapp3.1\SnakeFinished.exe
+C:\Users\opilane\source\repos\SnakeFinished\bin\Debug\netcoreapp3.1\SnakeFinished.deps.json
+C:\Users\opilane\source\repos\SnakeFinished\bin\Debug\netcoreapp3.1\SnakeFinished.runtimeconfig.json
+C:\Users\opilane\source\repos\SnakeFinished\bin\Debug\netcoreapp3.1\SnakeFinished.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\SnakeFinished\bin\Debug\netcoreapp3.1\SnakeFinished.dll
+C:\Users\opilane\source\repos\SnakeFinished\bin\Debug\netcoreapp3.1\SnakeFinished.pdb
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.AssemblyInfo.cs
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.dll
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.pdb
+C:\Users\opilane\source\repos\SnakeFinished\obj\Debug\netcoreapp3.1\SnakeFinished.genruntimeconfig.cache
